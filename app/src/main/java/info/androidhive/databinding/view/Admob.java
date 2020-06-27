@@ -7,7 +7,7 @@ import android.app.Activity;
 public class Admob extends Activity {
 
 	protected void showAds() {
-		//nothing happen here
+		//nothing happens here
 
 	}
 }
